@@ -7,26 +7,3 @@ class Tabela(models.Model):
 	email= models.EmailField(blank=True)
 	dt_nasc = models.DateField()
 	telefone = models.CharField(max_length=100, blank=True)
-
-########## insira seu codigo aqui---- ##############
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    ########### ---- ##############
